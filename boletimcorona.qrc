@@ -1,0 +1,43 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logoboletimcorona.png</file>
+  </qresource>
+  <qresource prefix="logo2">
+    <file>logoboletimcorona.png</file>
+  </qresource>
+  <qresource prefix="estados">
+    <file>simbolos estados/mapaacre.png</file>
+    <file>simbolos estados/mapaAL.png</file>
+    <file>simbolos estados/mapaamapa.png</file>
+    <file>simbolos estados/mapaamazonas.png</file>
+    <file>simbolos estados/mapaBA.png</file>
+    <file>simbolos estados/mapaceara.png</file>
+    <file>simbolos estados/mapadf.png</file>
+    <file>simbolos estados/mapaES.png</file>
+    <file>simbolos estados/mapaGO.png</file>
+    <file>simbolos estados/mapamaranhao.png</file>
+    <file>simbolos estados/mapaMG.png</file>
+    <file>simbolos estados/mapaMS.png</file>
+    <file>simbolos estados/mapaMT.png</file>
+    <file>simbolos estados/mapapara.png</file>
+    <file>simbolos estados/mapaPB.png</file>
+    <file>simbolos estados/mapaPE.png</file>
+    <file>simbolos estados/mapapiaui.png</file>
+    <file>simbolos estados/mapaPR.png</file>
+    <file>simbolos estados/mapaRJ.png</file>
+    <file>simbolos estados/mapaRN.png</file>
+    <file>simbolos estados/maparondonia.png</file>
+    <file>simbolos estados/maparoraima.png</file>
+    <file>simbolos estados/mapaRS.png</file>
+    <file>simbolos estados/mapaSC.png</file>
+    <file>simbolos estados/mapaSE.png</file>
+    <file>simbolos estados/mapaSP.png</file>
+    <file>simbolos estados/mapaTO.png</file>
+  </qresource>
+  <qresource prefix="compartilhar">
+    <file>compartilhar o app.png</file>
+  </qresource>
+  <qresource prefix="mapa">
+    <file>mapabrasil.png</file>
+  </qresource>
+</RCC>

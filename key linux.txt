@@ -1,0 +1,11 @@
+comando para criar a key no linux:
+
+keytool -genkey -v -keystore boletimcorona.jks -keyalg RSA -keysize 2048 -validity 10000 -alias boletimcorona
+
+comando pro buildozer assinar a chave:
+
+export P4A_RELEASE_KEYSTORE="boletimcorona.jks"
+export P4A_RELEASE_KEYSTORE_PASSWD="senhaescolhida"
+export P4A_RELEASE_KEYSTORE_PASSWD="senha escolhida"
+export P4A_RELEASE_KEYSTORE_KEYALIAS="boletimcorona"
+buildozer -v android release

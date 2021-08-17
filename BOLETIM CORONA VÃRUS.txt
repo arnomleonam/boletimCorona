@@ -1,0 +1,8 @@
+Boletim Coronavírus
+
+Este aplicativo é totalmente gratuito e tem como objetivo informar
+aos cidadãos atualizações acerca dos casos de coronavírus confirmados no
+Brasil. Todos os dados são baseados nas informações emitidas
+publicamentes pelo Governo Federal , Ministério da Saúde e principais
+canais de notícias do Brasil.
+
